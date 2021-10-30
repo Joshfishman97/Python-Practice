@@ -1,2 +1,1 @@
-# Python-Practice-
-# Python-Practice
+Completed worked on some libaries as well as bultin methods. Also parsed xml!
