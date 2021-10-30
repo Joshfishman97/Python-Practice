@@ -1,1 +1,1 @@
-Completed worked on some libaries as well as bultin methods. Also parsed xml!
+Completed worked on some libaries as well as bultin methods. Also parsed xml, Used Datetime library as well and learned alot about calanders in python!
